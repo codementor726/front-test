@@ -18,7 +18,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 Open [http://localhost:3000/slugs](http://localhost:3000/slugs) with your browser to see the 2nd task result.
 
 
-## Deploy on Vercel
+## Strapi
 Strapi implemented
 
 [https://helpful-crown-bf871e0d9a.strapiapp.com/api/restaurants]([http://localhost:3000/slugs](https://helpful-crown-bf871e0d9a.strapiapp.com/api/restaurants))

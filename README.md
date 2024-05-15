@@ -25,5 +25,3 @@ Strapi implemented
 
 [https://helpful-crown-bf871e0d9a.strapiapp.com/api/restaurants/112]([http://localhost:3000/slugs](https://helpful-crown-bf871e0d9a.strapiapp.com/api/restaurants/112))
 
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
